@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Jason, a... 
 
   - Computer Science Lecturer 🏫
-  - Developer 🖳 
+  - Software Developer 🖳 
   - Bass guitarist 🎸 𝄤
 
 💻 Welcome to my public repos! If you like Machine Learning, Vision, Data Structures and modern cloud infrastructure engineering / REST APIs, you've come to the right place.
