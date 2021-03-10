@@ -4,30 +4,28 @@
   - Developer 🖳 
   - Bass guitarist 🎸 𝄤
 
-- 💻 Browse my code samples, which mostly revolve around complex data structures and interview problems in Java, as well as several Machine Learning and Computer Vision algorithms in Python and MATLAB. 
+💻 Welcome to my public repos! If you like Machine Learning, Vision, Data Structures and modern cloud infrastructure engineering / REST APIs, you've come to the right place.
 
-- 💬 Let's talk backend engineering, Springboot, Java, Scala, Math, Algorithms, Data Structures, interpreted vs compiled languages and geopolitics of Caucasus and the Near East.
+💬 Let's talk backend engineering, Springboot, Java, Scala, Math, Algorithms, Data Structures, interpreted vs compiled languages and geopolitics of Caucasus and the Near East.
 
-- 🌱 I’m currently learning containerization, and how to transform my teaching to suit adults who are switching to software as much as students who are making their first steps in this career.
+🌱 I’m currently learning containerization, and how to transform my teaching to suit adults who are switching to software as much as students who are making their first steps in this career.
 
-- 🔭 I’m also working on improving my leetcode skills 😫 Track my progress and criticize me [here](https://github.com/jasonfilippou/InterviewProblems-Java)!
+🔭 I’m also working on improving my leetcode skills 😫 Track my progress and criticize me [here](https://github.com/jasonfilippou/InterviewProblems-Java)!
  
-- 📫 How to reach me: Is it about a repo? Make a pull request. Otherwise, feel free to [e-mail me](mailto:jason.filippou@gmail.com).
+📫 How to reach me: Is it about a repo? Make a pull request. Otherwise, feel free to [e-mail me](mailto:jason.filippou@gmail.com).
 
-- ⚡ Fun facts: 
+⚡ Fun facts: 
   - I have EU and Canadian citizenship.
   - I am fluent in two languages and not fluent in a third one. 
   - I have two kitties, Hades and Zeus.
 
-- 🌐 Other web portals:
+🌐 Other web portals:
 
   - [Personal site](https://www.jasonfilippou.com/)
   - [LinkedIn](https://www.linkedin.com/in/jasonfilippou/)
   - [Facebook](https://www.facebook.com/jason.filippou.5)
 
 Thanks for reading! 🙃 
-
-
 
 <!--
 **jasonfilippou/jasonfilippou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
