@@ -2,7 +2,7 @@
 
   - Computer Science Lecturer 🏫
   - Software Developer 🖳 
-  - Bass guitarist 🎸 𝄤
+  - Bass Guitarist 🎸 𝄤
 
 💻 Welcome to my public repos! If you like Machine Learning, Vision, Data Structures and modern cloud infrastructure engineering / REST APIs, you've come to the right place.
 
