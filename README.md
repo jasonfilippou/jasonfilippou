@@ -1,8 +1,8 @@
 ### Hi there! 👋 I'm Jason, a... 
 
-  - Computer Science Lecturer 🏫,
+  - Computer Science Lecturer 🏫
   - Developer 🖳 
-  - Bass guitarist 🎸 𝄤! 
+  - Bass guitarist 🎸 𝄤
 
 - 💻 Browse my code samples, which mostly revolve around complex data structures and interview problems in Java, as well as several Machine Learning and Computer Vision algorithms in Python and MATLAB. 
 
