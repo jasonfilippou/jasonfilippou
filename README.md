@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning containerization, and how to transform my teaching to suit adults who are switching to software as much as students who are making their first steps in this career.
 
-🔭 I’m also working on improving my leetcode skills 😫 Track my progress and criticize me [here](https://github.com/jasonfilippou/InterviewProblems-Java)!
+🔭 I’m also working on improving my leetcode skills 😫 Track my progress and criticize me [here](https://github.com/jasonfilippou/JIP) (Java) and [here](https://github.com/jasonfilippou/JIP) (Python)!
  
 📫 How to reach me: Is it about a repo? Make a pull request. Otherwise, feel free to [e-mail me](mailto:jason.filippou@gmail.com).
 
