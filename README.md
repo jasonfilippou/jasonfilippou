@@ -1,18 +1,20 @@
 ### Hi there! 👋 I'm Jason, a... 
 
-  - Computer Science Lecturer 🏫
   - Software Developer 🖳 
+  - Computer Science Academic 🏫
   - Bass Guitarist 🎸 𝄤
 
 💻 Welcome to my public repos! If you like Machine Learning, Vision, Data Structures and modern cloud infrastructure engineering / REST APIs, you've come to the right place.
 
 💬 Let's talk backend engineering, Springboot, Java, Scala, Math, Algorithms, Data Structures, interpreted vs compiled languages and geopolitics of Caucasus and the Near East.
 
-🌱 I’m currently learning containerization, and how to transform my teaching to suit adults who are switching to software as much as students who are making their first steps in this career.
+🌱 I’m currently learning [AngularJS](https://angularjs.org/), [Angular](https://angular.io/) and [Express](https://expressjs.com/)!
 
 🔭 I’m also working on improving my leetcode skills 😫 Track my progress and criticize me [here](https://github.com/jasonfilippou/JIP) (Java) and [here](https://github.com/jasonfilippou/PIP) (Python)!
- 
+
 📫 How to reach me: Is it about a repo? Make a pull request. Otherwise, feel free to [e-mail me](mailto:jason.filippou@gmail.com).
+
+😄 Pronouns: He, him, his.
 
 ⚡ Fun facts: 
   - I have EU and Canadian citizenship.
