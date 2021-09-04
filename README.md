@@ -1,6 +1,6 @@
-### Hi there! 👋 I'm Jason, a... 
+### Hi there! 👋 I'm Jason, a...
 
-  - Software Developer 🖳 
+  - Software Developer 🖳
   - Computer Science Academic 🏫
   - Bass Guitarist 🎸 𝄤
 
@@ -14,10 +14,10 @@
 
 😄 Pronouns: He, him, his.
 
-⚡ Fun facts: 
+⚡ Fun facts:
 
   - I have EU and Canadian citizenship.
-  - I am fluent in two languages and not fluent in a third one. 
+  - I am fluent in two languages and not fluent in a third one.
   - I have two kitties, Hades and Zeus.
 
 📫 How to reach me: Is it about a repo? Make a pull request. Otherwise, feel free to [e-mail me](mailto:jason.filippou@gmail.com).
@@ -28,7 +28,7 @@
   - [LinkedIn](https://www.linkedin.com/in/jasonfilippou/)
   - [Facebook](https://www.facebook.com/jason.filippou.5)
 
-Thanks for reading! 🙃 
+Thanks for reading! 🙃
 
 <!--
 **jasonfilippou/jasonfilippou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
