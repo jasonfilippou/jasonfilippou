@@ -8,11 +8,11 @@
 
 💬 Let's talk backend engineering, Springboot, Java, Scala, Math, Algorithms, Data Structures, interpreted vs compiled languages and geopolitics of Caucasus and the Near East.
 
-🌱 I’m currently learning [AngularJS](https://angularjs.org/), [Angular](https://angular.io/) and [Express](https://expressjs.com/)!
+🌱 I’m currently learning [Apache Flink](https://flink.apache.org/), [Express](https://expressjs.com/) and brushing up on my C++!
 
-🔭 I’m also working on improving my leetcode skills 😫 Track my progress and criticize me [here](https://github.com/jasonfilippou/JIP) (Java) and [here](https://github.com/jasonfilippou/PIP) \(Python)!
+🔭 I’m also working on improving my Leetcode skills 😫 [Track my progress](https://leetcode.com/JasonFil/) and fork my solutions [here](https://github.com/jasonfilippou/JIP) (Java) and [here](https://github.com/jasonfilippou/PIP) \(Python)!
 
-😄 Pronouns: He, him, his.
+👦 Pronouns: He, him, his.
 
 ⚡ Fun facts:
 
