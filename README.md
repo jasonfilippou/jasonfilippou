@@ -4,13 +4,11 @@
   - Computer Science Academic 🏫
   - Bass Guitarist 🎸 𝄤
 
-💻 Welcome to my public repos! If you like Machine Learning, Vision, Data Structures and modern cloud infrastructure engineering / REST APIs, you've come to the right place.
+💻 Welcome to my public repos! If you like Cloud infrastructure engineering / REST APIs, Machine Learning, Vision, or just want to check some solutions to coding interview problems, you've come to the right place.
 
 💬 Let's talk backend engineering, Springboot, Java, Scala, Math, Algorithms, Data Structures, interpreted vs compiled languages and geopolitics of Caucasus and the Near East.
 
-🌱 I’m currently learning [Apache Flink](https://flink.apache.org/), [Express](https://expressjs.com/) and brushing up on my C++!
-
-🔭 I’m also working on improving my Leetcode skills 😫 [Track my progress](https://leetcode.com/JasonFil/) and fork my solutions [here](https://github.com/jasonfilippou/JIP) (Java) and [here](https://github.com/jasonfilippou/PIP) \(Python)!
+🌱 I’m currently focused a lot on [Kubernetes](https://kubernetes.io/), and post a few interview problem solutions now and then :)
 
 👦 Pronouns: He, him, his.
 
@@ -18,7 +16,6 @@
 
   - I have EU and Canadian citizenship.
   - I am fluent in two languages and not fluent in a third one.
-  - I have two kitties, Hades and Zeus.
 
 📫 How to reach me: Is it about a repo? Make a pull request. Otherwise, feel free to [e-mail me](mailto:jason.filippou@gmail.com).
 
