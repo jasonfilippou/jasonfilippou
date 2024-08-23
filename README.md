@@ -6,7 +6,7 @@
 
 💻 Welcome to my public repos! If you like Cloud infrastructure engineering / REST APIs, Machine Learning, Vision, or just want to check some solutions to coding interview problems, you've come to the right place.
 
-💬 Let's talk backend engineering, Springboot, Java, Scala, Math, Algorithms, Data Structures, interpreted vs compiled languages and geopolitics of Caucasus and the Near East.
+💬 Let's talk backend engineering, Springboot, Java, Scala, Math, Algorithms, Data Structures, interpreted vs compiled languages and geopolitics of the Caucasus and the Near East.
 
 🌱 I’m currently focused a lot on [Kubernetes](https://kubernetes.io/), and post a few interview problem solutions now and then :)
 
